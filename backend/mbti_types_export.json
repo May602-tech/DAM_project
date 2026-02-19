@@ -1,0 +1,532 @@
+[
+  {
+    "_id": "698134cde11dbb6dc3e2066c",
+    "type": "ISTJ",
+    "name": "The Inspector",
+    "description": "ISTJs are **responsible, organized, and practical** individuals who value tradition and loyalty. They are **methodical and thorough**, preferring to work with concrete facts and data. They take their commitments seriously and can be **counted on to follow through**.",
+    "strengths": [
+      "Responsible",
+      "Organized",
+      "Practical",
+      "Detail-oriented"
+    ],
+    "weaknesses": [
+      "Stubborn",
+      "Insensitive",
+      "By-the-book",
+      "Judgmental"
+    ],
+    "suitableRoles": [
+      {
+        "title": "Database Administrator",
+        "description": "Ensuring database integrity, performance, and security.",
+        "_id": "698134cde11dbb6dc3e2066d"
+      },
+      {
+        "title": "Systems Administrator",
+        "description": "Managing and maintaining IT infrastructure and server environments.",
+        "_id": "698134cde11dbb6dc3e2066e"
+      }
+    ],
+    "__v": 0,
+    "createdAt": "2026-02-02T23:35:41.516Z",
+    "updatedAt": "2026-02-02T23:35:41.516Z"
+  },
+  {
+    "_id": "698134cde11dbb6dc3e2066f",
+    "type": "ISFJ",
+    "name": "The Protector",
+    "description": "ISFJs are **warm, considerate, and dedicated** individuals who are committed to the well-being of others. They are **meticulous and responsible**, with a strong sense of duty. They thrive in environments where they can provide **practical care and support**.",
+    "strengths": [
+      "Supportive",
+      "Reliable",
+      "Patient",
+      "Imaginative"
+    ],
+    "weaknesses": [
+      "Shy",
+      "Takes things too personally",
+      "Overloads themselves",
+      "Reluctant to change"
+    ],
+    "suitableRoles": [
+      {
+        "title": "IT Support Specialist",
+        "description": "Providing technical assistance and troubleshooting for users.",
+        "_id": "698134cde11dbb6dc3e20670"
+      },
+      {
+        "title": "QA Tester",
+        "description": "Ensuring software quality through manual and automated testing.",
+        "_id": "698134cde11dbb6dc3e20671"
+      }
+    ],
+    "__v": 0,
+    "createdAt": "2026-02-02T23:35:41.518Z",
+    "updatedAt": "2026-02-02T23:35:41.518Z"
+  },
+  {
+    "_id": "698134cde11dbb6dc3e20672",
+    "type": "INFJ",
+    "name": "The Advocate",
+    "description": "INFJs are **insightful, creative, and principled** individuals who are driven by a deep sense of idealism. They are passionate about making the world a better place and have a natural ability to understand **complex emotional dynamics** and human motivations.",
+    "strengths": [
+      "Creative",
+      "Insightful",
+      "Principled",
+      "Passionate"
+    ],
+    "weaknesses": [
+      "Sensitive to criticism",
+      "Reluctant to open up",
+      "Perfectionistic",
+      "Avoiding the ordinary"
+    ],
+    "suitableRoles": [
+      {
+        "title": "UI/UX Designer",
+        "description": "Creating intuitive and user-centered designs for software and websites.",
+        "_id": "698134cde11dbb6dc3e20673"
+      },
+      {
+        "title": "Technical Writer",
+        "description": "Producing clear and concise documentation for IT products.",
+        "_id": "698134cde11dbb6dc3e20674"
+      }
+    ],
+    "__v": 0,
+    "createdAt": "2026-02-02T23:35:41.518Z",
+    "updatedAt": "2026-02-02T23:35:41.518Z"
+  },
+  {
+    "_id": "698134cde11dbb6dc3e20675",
+    "type": "ISTP",
+    "name": "The Crafter",
+    "description": "ISTPs are **adventurous and independent** individuals who are masters of their chosen tools, whether physical or digital. They are **logical, practical problem-solvers** who thrive on understanding how things work and are **quick to act in a crisis**.",
+    "strengths": [
+      "Optimistic",
+      "Energetic",
+      "Creative",
+      "Practical"
+    ],
+    "weaknesses": [
+      "Stubborn",
+      "Insensitive",
+      "Private and reserved",
+      "Easily bored"
+    ],
+    "suitableRoles": [
+      {
+        "title": "Network Engineer",
+        "description": "Designing, implementing, and managing computer networks.",
+        "_id": "698134cde11dbb6dc3e20676"
+      },
+      {
+        "title": "DevOps Engineer",
+        "description": "Automating and streamlining software development and deployment processes.",
+        "_id": "698134cde11dbb6dc3e20677"
+      }
+    ],
+    "__v": 0,
+    "createdAt": "2026-02-02T23:35:41.518Z",
+    "updatedAt": "2026-02-02T23:35:41.518Z"
+  },
+  {
+    "_id": "698134cde11dbb6dc3e20678",
+    "type": "ISFP",
+    "name": "The Artist",
+    "description": "ISFPs are **gentle, sensitive, and artistic** individuals who live in the present moment. They are **spontaneous and flexible**, with a deep appreciation for aesthetics. They seek to create a personal environment that is both **beautiful and functional**.",
+    "strengths": [
+      "Charming",
+      "Sensitive to others",
+      "Imaginative",
+      "Passionate"
+    ],
+    "weaknesses": [
+      "Fiercely independent",
+      "Unpredictable",
+      "Easily stressed",
+      "Overly competitive"
+    ],
+    "suitableRoles": [
+      {
+        "title": "Frontend Developer",
+        "description": "Building the user interface and client-side logic of web applications.",
+        "_id": "698134cde11dbb6dc3e20679"
+      },
+      {
+        "title": "Digital Artist / Animator",
+        "description": "Creating graphics and animations for games and multimedia.",
+        "_id": "698134cde11dbb6dc3e2067a"
+      }
+    ],
+    "__v": 0,
+    "createdAt": "2026-02-02T23:35:41.518Z",
+    "updatedAt": "2026-02-02T23:35:41.518Z"
+  },
+  {
+    "_id": "698134cde11dbb6dc3e2067b",
+    "type": "INFP",
+    "name": "The Mediator",
+    "description": "INFPs are **imaginative idealists**, guided by their own core values and beliefs. They are **curious, open-minded**, and seek to understand people and their place in the world. They are passionate about causes that **align with their values**.",
+    "strengths": [
+      "Idealistic",
+      "Seeks harmony",
+      "Open-minded",
+      "Flexible"
+    ],
+    "weaknesses": [
+      "Too idealistic",
+      "Too altruistic",
+      "Impractical",
+      "Dislikes dealing with data"
+    ],
+    "suitableRoles": [
+      {
+        "title": "UX Researcher",
+        "description": "Understanding user behaviors and needs to inform design decisions.",
+        "_id": "698134cde11dbb6dc3e2067c"
+      },
+      {
+        "title": "Content Strategist (IT)",
+        "description": "Planning and managing content for tech-focused websites and products.",
+        "_id": "698134cde11dbb6dc3e2067d"
+      }
+    ],
+    "__v": 0,
+    "createdAt": "2026-02-02T23:35:41.519Z",
+    "updatedAt": "2026-02-02T23:35:41.519Z"
+  },
+  {
+    "_id": "698134cde11dbb6dc3e2067e",
+    "type": "ESTP",
+    "name": "The Dynamo",
+    "description": "ESTPs are **energetic, action-oriented, and perceptive** individuals who thrive in the moment. They are **pragmatic problem-solvers** who enjoy taking risks and thinking on their feet. They are often the **first to respond in a crisis**.",
+    "strengths": [
+      "Bold",
+      "Rational",
+      "Practical",
+      "Original"
+    ],
+    "weaknesses": [
+      "Insensitive",
+      "Impatient",
+      "Risk-prone",
+      "Unstructured"
+    ],
+    "suitableRoles": [
+      {
+        "title": "Cybersecurity Analyst",
+        "description": "Protecting IT systems from security threats and breaches.",
+        "_id": "698134cde11dbb6dc3e2067f"
+      },
+      {
+        "title": "IT Sales Engineer",
+        "description": "Combining technical knowledge with sales skills to sell IT solutions.",
+        "_id": "698134cde11dbb6dc3e20680"
+      }
+    ],
+    "__v": 0,
+    "createdAt": "2026-02-02T23:35:41.519Z",
+    "updatedAt": "2026-02-02T23:35:41.519Z"
+  },
+  {
+    "_id": "698134cde11dbb6dc3e20681",
+    "type": "ESTJ",
+    "name": "The Executive",
+    "description": "ESTJs are **organized, efficient, and decisive leaders** who excel at managing people and projects. They are **logical and assertive**, with a strong belief in rules and tradition. They are committed to **creating order and structure**.",
+    "strengths": [
+      "Dedicated",
+      "Strong-willed",
+      "Direct and honest",
+      "Loyal, patient and reliable"
+    ],
+    "weaknesses": [
+      "Inflexible and stubborn",
+      "Uncomfortable with unconventional situations",
+      "Judgmental",
+      "Too focused on social status"
+    ],
+    "suitableRoles": [
+      {
+        "title": "IT Project Manager",
+        "description": "Planning, executing, and overseeing IT projects to completion.",
+        "_id": "698134cde11dbb6dc3e20682"
+      },
+      {
+        "title": "Cloud Solutions Architect",
+        "description": "Designing and managing cloud computing architecture.",
+        "_id": "698134cde11dbb6dc3e20683"
+      }
+    ],
+    "__v": 0,
+    "createdAt": "2026-02-02T23:35:41.519Z",
+    "updatedAt": "2026-02-02T23:35:41.519Z"
+  },
+  {
+    "_id": "698134cde11dbb6dc3e20684",
+    "type": "ENFP",
+    "name": "The Champion",
+    "description": "ENFPs are **enthusiastic, creative, and sociable** individuals who see life as full of possibilities. They are **excellent communicators** who can inspire and motivate others. They thrive on **new ideas and experiences**.",
+    "strengths": [
+      "Curious",
+      "Observant",
+      "Energetic and enthusiastic",
+      "Excellent communicator"
+    ],
+    "weaknesses": [
+      "Poor practical skills",
+      "Finds it difficult to focus",
+      "Overthinks things",
+      "Highly emotional"
+    ],
+    "suitableRoles": [
+      {
+        "title": "Product Manager (IT)",
+        "description": "Defining the vision and strategy for a tech product.",
+        "_id": "698134cde11dbb6dc3e20685"
+      },
+      {
+        "title": "Scrum Master",
+        "description": "Facilitating Agile development teams and processes.",
+        "_id": "698134cde11dbb6dc3e20686"
+      }
+    ],
+    "__v": 0,
+    "createdAt": "2026-02-02T23:35:41.519Z",
+    "updatedAt": "2026-02-02T23:35:41.519Z"
+  },
+  {
+    "_id": "698134cde11dbb6dc3e20687",
+    "type": "ENFJ",
+    "name": "The Giver",
+    "description": "ENFJs are **charismatic, empathetic, and inspiring leaders** who are driven to help others realize their potential. They are **natural-born teachers and mentors** who can create a **positive and collaborative environment**.",
+    "strengths": [
+      "Tolerant",
+      "Reliable",
+      "Charismatic",
+      "Altruistic"
+    ],
+    "weaknesses": [
+      "Overly idealistic",
+      "Too selfless",
+      "Too sensitive",
+      "Fluctuating self-esteem"
+    ],
+    "suitableRoles": [
+      {
+        "title": "IT Trainer / Tech Evangelist",
+        "description": "Educating others on new technologies and products.",
+        "_id": "698134cde11dbb6dc3e20688"
+      },
+      {
+        "title": "Community Manager (Tech)",
+        "description": "Building and engaging with a community around a tech product.",
+        "_id": "698134cde11dbb6dc3e20689"
+      }
+    ],
+    "__v": 0,
+    "createdAt": "2026-02-02T23:35:41.519Z",
+    "updatedAt": "2026-02-02T23:35:41.519Z"
+  },
+  {
+    "_id": "698134cde11dbb6dc3e2068a",
+    "type": "ESFP",
+    "name": "The Performer",
+    "description": "ESFPs are **vivacious, charming, and spontaneous** individuals who love to be the center of attention. They are **fun-loving and enjoy new experiences**, making life exciting for those around them. They are **practical and resourceful**.",
+    "strengths": [
+      "Bold",
+      "Original",
+      "Aesthetics and showmanship",
+      "Practical"
+    ],
+    "weaknesses": [
+      "Sensitive",
+      "Conflict-averse",
+      "Easily bored",
+      "Poor long-term planners"
+    ],
+    "suitableRoles": [
+      {
+        "title": "Game Designer",
+        "description": "Designing the core concepts and mechanics of video games.",
+        "_id": "698134cde11dbb6dc3e2068b"
+      },
+      {
+        "title": "Mobile App Developer",
+        "description": "Creating applications for mobile devices.",
+        "_id": "698134cde11dbb6dc3e2068c"
+      }
+    ],
+    "__v": 0,
+    "createdAt": "2026-02-02T23:35:41.519Z",
+    "updatedAt": "2026-02-02T23:35:41.519Z"
+  },
+  {
+    "_id": "698134cde11dbb6dc3e2068d",
+    "type": "ESFJ",
+    "name": "The Consul",
+    "description": "ESFJs are **caring, sociable, and popular** individuals who are dedicated to helping others. They are **highly attuned to the needs of those around them** and enjoy creating a harmonious and supportive environment. They are **practical and organized**.",
+    "strengths": [
+      "Strong Practical Skills",
+      "Strong Sense of Duty",
+      "Very Loyal",
+      "Sensitive and Warm"
+    ],
+    "weaknesses": [
+      "Worried about Social Status",
+      "Inflexible",
+      "Vulnerable to Criticism",
+      "Often Too Needy"
+    ],
+    "suitableRoles": [
+      {
+        "title": "Help Desk Technician",
+        "description": "Providing first-level support to resolve user issues.",
+        "_id": "698134cde11dbb6dc3e2068e"
+      },
+      {
+        "title": "Customer Success Manager (IT)",
+        "description": "Ensuring customers are successful with a tech product.",
+        "_id": "698134cde11dbb6dc3e2068f"
+      }
+    ],
+    "__v": 0,
+    "createdAt": "2026-02-02T23:35:41.519Z",
+    "updatedAt": "2026-02-02T23:35:41.519Z"
+  },
+  {
+    "_id": "698134cde11dbb6dc3e20690",
+    "type": "INTJ",
+    "name": "The Architect",
+    "description": "INTJs are **analytical problem-solvers**, eager to improve systems and processes with their innovative ideas. They have a talent for seeing **possibilities for improvement**, whether at work, at home, or in themselves.",
+    "strengths": [
+      "Strategic",
+      "Independent",
+      "Determined",
+      "Open-minded",
+      "Insightful"
+    ],
+    "weaknesses": [
+      "Overly critical",
+      "Dismissive of emotions",
+      "Perfectionistic"
+    ],
+    "suitableRoles": [
+      {
+        "title": "Software Architect",
+        "description": "Designing high-level structures of a software system.",
+        "_id": "698134cde11dbb6dc3e20691"
+      },
+      {
+        "title": "Chief Technology Officer (CTO)",
+        "description": "Overseeing the technological needs and strategy of a company.",
+        "_id": "698134cde11dbb6dc3e20692"
+      }
+    ],
+    "__v": 0,
+    "createdAt": "2026-02-02T23:35:41.519Z",
+    "updatedAt": "2026-02-02T23:35:41.519Z"
+  },
+  {
+    "_id": "698134cde11dbb6dc3e20693",
+    "type": "INTP",
+    "name": "The Logician",
+    "description": "INTPs are fascinated by **logical analysis, systems, and design**. They are preoccupied with theory and are driven to understand the **universal laws that govern the world**. They are **detached, concise, and enjoy intellectual pursuits**.",
+    "strengths": [
+      "Analytical",
+      "Original",
+      "Open-minded",
+      "Honest",
+      "Objective"
+    ],
+    "weaknesses": [
+      "Insensitive",
+      "Absent-minded",
+      "Second-guessing"
+    ],
+    "suitableRoles": [
+      {
+        "title": "Data Scientist",
+        "description": "Analyzing complex data to extract knowledge and insights.",
+        "_id": "698134cde11dbb6dc3e20694"
+      },
+      {
+        "title": "AI/Machine Learning Engineer",
+        "description": "Building and deploying machine learning models.",
+        "_id": "698134cde11dbb6dc3e20695"
+      }
+    ],
+    "__v": 0,
+    "createdAt": "2026-02-02T23:35:41.519Z",
+    "updatedAt": "2026-02-02T23:35:41.519Z"
+  },
+  {
+    "_id": "698134cde11dbb6dc3e20696",
+    "type": "ENTJ",
+    "name": "The Commander",
+    "description": "ENTJs are **strategic leaders**, motivated to organize change. They are quick to see inefficiency and **conceptualize new solutions**, and enjoy developing long-range plans to accomplish their vision. They **excel at logical reasoning**.",
+    "strengths": [
+      "Confident",
+      "Strategic",
+      "Charismatic",
+      "Organized",
+      "Decisive"
+    ],
+    "weaknesses": [
+      "Stubborn",
+      "Dominant",
+      "Intolerant",
+      "Impatient"
+    ],
+    "suitableRoles": [
+      {
+        "title": "Chief Information Officer (CIO)",
+        "description": "Overseeing the IT strategy and systems of an organization.",
+        "_id": "698134cde11dbb6dc3e20697"
+      },
+      {
+        "title": "Enterprise Architect",
+        "description": "Aligning IT strategy with business goals.",
+        "_id": "698134cde11dbb6dc3e20698"
+      }
+    ],
+    "__v": 0,
+    "createdAt": "2026-02-02T23:35:41.519Z",
+    "updatedAt": "2026-02-02T23:35:41.519Z"
+  },
+  {
+    "_id": "698134cde11dbb6dc3e20699",
+    "type": "ENTP",
+    "name": "The Debater",
+    "description": "ENTPs are **inspired innovators**, motivated to find new solutions to intellectually challenging problems. They are **curious and clever**, and seek to understand the people, systems, and principles that surround them.",
+    "strengths": [
+      "Innovative",
+      "Adaptable",
+      "Resourceful",
+      "Quick-thinking",
+      "Charismatic"
+    ],
+    "weaknesses": [
+      "Argumentative",
+      "Insensitive",
+      "Disorganized",
+      "Unfocused"
+    ],
+    "suitableRoles": [
+      {
+        "title": "Solutions Architect",
+        "description": "Designing and developing solutions to complex business problems.",
+        "_id": "698134cde11dbb6dc3e2069a"
+      },
+      {
+        "title": "Product Owner",
+        "description": "Maximizing the value of a product resulting from the work of the Development Team.",
+        "_id": "698134cde11dbb6dc3e2069b"
+      }
+    ],
+    "__v": 0,
+    "createdAt": "2026-02-02T23:35:41.519Z",
+    "updatedAt": "2026-02-02T23:35:41.519Z"
+  }
+]

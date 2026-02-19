@@ -1,0 +1,842 @@
+[
+  {
+    "_id": "698134cde11dbb6dc3e2069d",
+    "question": "At a social event, you are more likely to:",
+    "dimension": "EI",
+    "direction": 1,
+    "options": [
+      {
+        "text": "Interact with many people, including strangers",
+        "value": 2,
+        "_id": "698134cde11dbb6dc3e2069e"
+      },
+      {
+        "text": "Stick to the people you already know",
+        "value": -2,
+        "_id": "698134cde11dbb6dc3e2069f"
+      }
+    ],
+    "__v": 0,
+    "createdAt": "2026-02-02T23:35:41.538Z",
+    "updatedAt": "2026-02-02T23:35:41.538Z"
+  },
+  {
+    "_id": "698134cde11dbb6dc3e206a0",
+    "question": "After a long week, you prefer a weekend that is:",
+    "dimension": "EI",
+    "direction": 1,
+    "options": [
+      {
+        "text": "Full of social activities",
+        "value": 2,
+        "_id": "698134cde11dbb6dc3e206a1"
+      },
+      {
+        "text": "Quiet with time for yourself",
+        "value": -2,
+        "_id": "698134cde11dbb6dc3e206a2"
+      }
+    ],
+    "__v": 0,
+    "createdAt": "2026-02-02T23:35:41.538Z",
+    "updatedAt": "2026-02-02T23:35:41.538Z"
+  },
+  {
+    "_id": "698134cde11dbb6dc3e206a3",
+    "question": "In a discussion, you are more likely to:",
+    "dimension": "EI",
+    "direction": 1,
+    "options": [
+      {
+        "text": "Speak up and share your thoughts freely",
+        "value": 2,
+        "_id": "698134cde11dbb6dc3e206a4"
+      },
+      {
+        "text": "Listen carefully before you speak",
+        "value": -2,
+        "_id": "698134cde11dbb6dc3e206a5"
+      }
+    ],
+    "__v": 0,
+    "createdAt": "2026-02-02T23:35:41.538Z",
+    "updatedAt": "2026-02-02T23:35:41.538Z"
+  },
+  {
+    "_id": "698134cde11dbb6dc3e206a6",
+    "question": "When working on a group project, you prefer to:",
+    "dimension": "EI",
+    "direction": 1,
+    "options": [
+      {
+        "text": "Brainstorm ideas with the group",
+        "value": 2,
+        "_id": "698134cde11dbb6dc3e206a7"
+      },
+      {
+        "text": "Think things through on your own first",
+        "value": -2,
+        "_id": "698134cde11dbb6dc3e206a8"
+      }
+    ],
+    "__v": 0,
+    "createdAt": "2026-02-02T23:35:41.539Z",
+    "updatedAt": "2026-02-02T23:35:41.539Z"
+  },
+  {
+    "_id": "698134cde11dbb6dc3e206a9",
+    "question": "You would describe yourself as more:",
+    "dimension": "EI",
+    "direction": 1,
+    "options": [
+      {
+        "text": "Outgoing and expressive",
+        "value": 2,
+        "_id": "698134cde11dbb6dc3e206aa"
+      },
+      {
+        "text": "Private and reserved",
+        "value": -2,
+        "_id": "698134cde11dbb6dc3e206ab"
+      }
+    ],
+    "__v": 0,
+    "createdAt": "2026-02-02T23:35:41.539Z",
+    "updatedAt": "2026-02-02T23:35:41.539Z"
+  },
+  {
+    "_id": "698134cde11dbb6dc3e206ac",
+    "question": "When you are in a new environment, you tend to:",
+    "dimension": "EI",
+    "direction": 1,
+    "options": [
+      {
+        "text": "Introduce yourself to others",
+        "value": 2,
+        "_id": "698134cde11dbb6dc3e206ad"
+      },
+      {
+        "text": "Wait for others to approach you",
+        "value": -2,
+        "_id": "698134cde11dbb6dc3e206ae"
+      }
+    ],
+    "__v": 0,
+    "createdAt": "2026-02-02T23:35:41.539Z",
+    "updatedAt": "2026-02-02T23:35:41.539Z"
+  },
+  {
+    "_id": "698134cde11dbb6dc3e206af",
+    "question": "Your energy levels are more affected by:",
+    "dimension": "EI",
+    "direction": 1,
+    "options": [
+      {
+        "text": "Being around people",
+        "value": 2,
+        "_id": "698134cde11dbb6dc3e206b0"
+      },
+      {
+        "text": "Spending time alone",
+        "value": -2,
+        "_id": "698134cde11dbb6dc3e206b1"
+      }
+    ],
+    "__v": 0,
+    "createdAt": "2026-02-02T23:35:41.539Z",
+    "updatedAt": "2026-02-02T23:35:41.539Z"
+  },
+  {
+    "_id": "698134cde11dbb6dc3e206b2",
+    "question": "When learning something new, you prefer to:",
+    "dimension": "EI",
+    "direction": 1,
+    "options": [
+      {
+        "text": "Discuss it with others",
+        "value": 2,
+        "_id": "698134cde11dbb6dc3e206b3"
+      },
+      {
+        "text": "Reflect on it by yourself",
+        "value": -2,
+        "_id": "698134cde11dbb6dc3e206b4"
+      }
+    ],
+    "__v": 0,
+    "createdAt": "2026-02-02T23:35:41.539Z",
+    "updatedAt": "2026-02-02T23:35:41.539Z"
+  },
+  {
+    "_id": "698134cde11dbb6dc3e206b5",
+    "question": "You feel more comfortable:",
+    "dimension": "EI",
+    "direction": 1,
+    "options": [
+      {
+        "text": "In a large, bustling crowd",
+        "value": 2,
+        "_id": "698134cde11dbb6dc3e206b6"
+      },
+      {
+        "text": "In a small, intimate group",
+        "value": -2,
+        "_id": "698134cde11dbb6dc3e206b7"
+      }
+    ],
+    "__v": 0,
+    "createdAt": "2026-02-02T23:35:41.539Z",
+    "updatedAt": "2026-02-02T23:35:41.539Z"
+  },
+  {
+    "_id": "698134cde11dbb6dc3e206b8",
+    "question": "When making a phone call, you:",
+    "dimension": "EI",
+    "direction": 1,
+    "options": [
+      {
+        "text": "Feel comfortable and do it without hesitation",
+        "value": 2,
+        "_id": "698134cde11dbb6dc3e206b9"
+      },
+      {
+        "text": "Rehearse what you are going to say",
+        "value": -2,
+        "_id": "698134cde11dbb6dc3e206ba"
+      }
+    ],
+    "__v": 0,
+    "createdAt": "2026-02-02T23:35:41.539Z",
+    "updatedAt": "2026-02-02T23:35:41.539Z"
+  },
+  {
+    "_id": "698134cde11dbb6dc3e206bb",
+    "question": "You are more interested in:",
+    "dimension": "SN",
+    "direction": 1,
+    "options": [
+      {
+        "text": "Facts and concrete details",
+        "value": 2,
+        "_id": "698134cde11dbb6dc3e206bc"
+      },
+      {
+        "text": "Ideas and abstract concepts",
+        "value": -2,
+        "_id": "698134cde11dbb6dc3e206bd"
+      }
+    ],
+    "__v": 0,
+    "createdAt": "2026-02-02T23:35:41.539Z",
+    "updatedAt": "2026-02-02T23:35:41.539Z"
+  },
+  {
+    "_id": "698134cde11dbb6dc3e206be",
+    "question": "When you read, you prefer:",
+    "dimension": "SN",
+    "direction": 1,
+    "options": [
+      {
+        "text": "Books based on real events",
+        "value": 2,
+        "_id": "698134cde11dbb6dc3e206bf"
+      },
+      {
+        "text": "Fictional stories with imaginative plots",
+        "value": -2,
+        "_id": "698134cde11dbb6dc3e206c0"
+      }
+    ],
+    "__v": 0,
+    "createdAt": "2026-02-02T23:35:41.539Z",
+    "updatedAt": "2026-02-02T23:35:41.539Z"
+  },
+  {
+    "_id": "698134cde11dbb6dc3e206c1",
+    "question": "You trust:",
+    "dimension": "SN",
+    "direction": 1,
+    "options": [
+      {
+        "text": "Your direct experience and observations",
+        "value": 2,
+        "_id": "698134cde11dbb6dc3e206c2"
+      },
+      {
+        "text": "Your intuition and gut feelings",
+        "value": -2,
+        "_id": "698134cde11dbb6dc3e206c3"
+      }
+    ],
+    "__v": 0,
+    "createdAt": "2026-02-02T23:35:41.539Z",
+    "updatedAt": "2026-02-02T23:35:41.539Z"
+  },
+  {
+    "_id": "698134cde11dbb6dc3e206c4",
+    "question": "In your work, you prefer tasks that require:",
+    "dimension": "SN",
+    "direction": 1,
+    "options": [
+      {
+        "text": "Practical application and tangible results",
+        "value": 2,
+        "_id": "698134cde11dbb6dc3e206c5"
+      },
+      {
+        "text": "Innovation and theoretical thinking",
+        "value": -2,
+        "_id": "698134cde11dbb6dc3e206c6"
+      }
+    ],
+    "__v": 0,
+    "createdAt": "2026-02-02T23:35:41.539Z",
+    "updatedAt": "2026-02-02T23:35:41.539Z"
+  },
+  {
+    "_id": "698134cde11dbb6dc3e206c7",
+    "question": "You would rather be seen as:",
+    "dimension": "SN",
+    "direction": 1,
+    "options": [
+      {
+        "text": "A realistic and practical person",
+        "value": 2,
+        "_id": "698134cde11dbb6dc3e206c8"
+      },
+      {
+        "text": "An imaginative and innovative person",
+        "value": -2,
+        "_id": "698134cde11dbb6dc3e206c9"
+      }
+    ],
+    "__v": 0,
+    "createdAt": "2026-02-02T23:35:41.539Z",
+    "updatedAt": "2026-02-02T23:35:41.539Z"
+  },
+  {
+    "_id": "698134cde11dbb6dc3e206ca",
+    "question": "When describing an event, you are more likely to:",
+    "dimension": "SN",
+    "direction": 1,
+    "options": [
+      {
+        "text": "Detail what actually happened",
+        "value": 2,
+        "_id": "698134cde11dbb6dc3e206cb"
+      },
+      {
+        "text": "Explain the underlying meaning and possibilities",
+        "value": -2,
+        "_id": "698134cde11dbb6dc3e206cc"
+      }
+    ],
+    "__v": 0,
+    "createdAt": "2026-02-02T23:35:41.539Z",
+    "updatedAt": "2026-02-02T23:35:41.539Z"
+  },
+  {
+    "_id": "698134cde11dbb6dc3e206cd",
+    "question": "You are more drawn to:",
+    "dimension": "SN",
+    "direction": 1,
+    "options": [
+      {
+        "text": "The present moment and current realities",
+        "value": 2,
+        "_id": "698134cde11dbb6dc3e206ce"
+      },
+      {
+        "text": "Future possibilities and potential outcomes",
+        "value": -2,
+        "_id": "698134cde11dbb6dc3e206cf"
+      }
+    ],
+    "__v": 0,
+    "createdAt": "2026-02-02T23:35:41.539Z",
+    "updatedAt": "2026-02-02T23:35:41.539Z"
+  },
+  {
+    "_id": "698134cde11dbb6dc3e206d0",
+    "question": "When following instructions, you prefer to:",
+    "dimension": "SN",
+    "direction": 1,
+    "options": [
+      {
+        "text": "Have clear, step-by-step directions",
+        "value": 2,
+        "_id": "698134cde11dbb6dc3e206d1"
+      },
+      {
+        "text": "Have a general guideline and figure out the details yourself",
+        "value": -2,
+        "_id": "698134cde11dbb6dc3e206d2"
+      }
+    ],
+    "__v": 0,
+    "createdAt": "2026-02-02T23:35:41.539Z",
+    "updatedAt": "2026-02-02T23:35:41.539Z"
+  },
+  {
+    "_id": "698134cde11dbb6dc3e206d3",
+    "question": "You notice:",
+    "dimension": "SN",
+    "direction": 1,
+    "options": [
+      {
+        "text": "Small details in your surroundings",
+        "value": 2,
+        "_id": "698134cde11dbb6dc3e206d4"
+      },
+      {
+        "text": "The overall pattern and connections",
+        "value": -2,
+        "_id": "698134cde11dbb6dc3e206d5"
+      }
+    ],
+    "__v": 0,
+    "createdAt": "2026-02-02T23:35:41.539Z",
+    "updatedAt": "2026-02-02T23:35:41.539Z"
+  },
+  {
+    "_id": "698134cde11dbb6dc3e206d6",
+    "question": "You prefer to talk about:",
+    "dimension": "SN",
+    "direction": 1,
+    "options": [
+      {
+        "text": "What is happening now",
+        "value": 2,
+        "_id": "698134cde11dbb6dc3e206d7"
+      },
+      {
+        "text": "What could happen in the future",
+        "value": -2,
+        "_id": "698134cde11dbb6dc3e206d8"
+      }
+    ],
+    "__v": 0,
+    "createdAt": "2026-02-02T23:35:41.539Z",
+    "updatedAt": "2026-02-02T23:35:41.539Z"
+  },
+  {
+    "_id": "698134cde11dbb6dc3e206d9",
+    "question": "When making a decision, you rely more on:",
+    "dimension": "TF",
+    "direction": 1,
+    "options": [
+      {
+        "text": "Logical analysis and objective criteria",
+        "value": 2,
+        "_id": "698134cde11dbb6dc3e206da"
+      },
+      {
+        "text": "Personal values and how it affects others",
+        "value": -2,
+        "_id": "698134cde11dbb6dc3e206db"
+      }
+    ],
+    "__v": 0,
+    "createdAt": "2026-02-02T23:35:41.539Z",
+    "updatedAt": "2026-02-02T23:35:41.539Z"
+  },
+  {
+    "_id": "698134cde11dbb6dc3e206dc",
+    "question": "You are more concerned with:",
+    "dimension": "TF",
+    "direction": 1,
+    "options": [
+      {
+        "text": "Being fair and just",
+        "value": 2,
+        "_id": "698134cde11dbb6dc3e206dd"
+      },
+      {
+        "text": "Being compassionate and empathetic",
+        "value": -2,
+        "_id": "698134cde11dbb6dc3e206de"
+      }
+    ],
+    "__v": 0,
+    "createdAt": "2026-02-02T23:35:41.539Z",
+    "updatedAt": "2026-02-02T23:35:41.539Z"
+  },
+  {
+    "_id": "698134cde11dbb6dc3e206df",
+    "question": "In an argument, you are more likely to:",
+    "dimension": "TF",
+    "direction": 1,
+    "options": [
+      {
+        "text": "Focus on the logical inconsistencies",
+        "value": 2,
+        "_id": "698134cde11dbb6dc3e206e0"
+      },
+      {
+        "text": "Consider the other person’s feelings",
+        "value": -2,
+        "_id": "698134cde11dbb6dc3e206e1"
+      }
+    ],
+    "__v": 0,
+    "createdAt": "2026-02-02T23:35:41.539Z",
+    "updatedAt": "2026-02-02T23:35:41.539Z"
+  },
+  {
+    "_id": "698134cde11dbb6dc3e206e2",
+    "question": "You would rather be known as someone who is:",
+    "dimension": "TF",
+    "direction": 1,
+    "options": [
+      {
+        "text": "Clear-headed and rational",
+        "value": 2,
+        "_id": "698134cde11dbb6dc3e206e3"
+      },
+      {
+        "text": "Warm and caring",
+        "value": -2,
+        "_id": "698134cde11dbb6dc3e206e4"
+      }
+    ],
+    "__v": 0,
+    "createdAt": "2026-02-02T23:35:41.539Z",
+    "updatedAt": "2026-02-02T23:35:41.539Z"
+  },
+  {
+    "_id": "698134cde11dbb6dc3e206e5",
+    "question": "When giving feedback, you prioritize:",
+    "dimension": "TF",
+    "direction": 1,
+    "options": [
+      {
+        "text": "Honesty and directness, even if it hurts",
+        "value": 2,
+        "_id": "698134cde11dbb6dc3e206e6"
+      },
+      {
+        "text": "Politeness and ensuring no one is offended",
+        "value": -2,
+        "_id": "698134cde11dbb6dc3e206e7"
+      }
+    ],
+    "__v": 0,
+    "createdAt": "2026-02-02T23:35:41.539Z",
+    "updatedAt": "2026-02-02T23:35:41.539Z"
+  },
+  {
+    "_id": "698134cde11dbb6dc3e206e8",
+    "question": "You are more motivated by:",
+    "dimension": "TF",
+    "direction": 1,
+    "options": [
+      {
+        "text": "Achieving a goal and being effective",
+        "value": 2,
+        "_id": "698134cde11dbb6dc3e206e9"
+      },
+      {
+        "text": "Making a positive impact on people",
+        "value": -2,
+        "_id": "698134cde11dbb6dc3e206ea"
+      }
+    ],
+    "__v": 0,
+    "createdAt": "2026-02-02T23:35:41.539Z",
+    "updatedAt": "2026-02-02T23:35:41.539Z"
+  },
+  {
+    "_id": "698134cde11dbb6dc3e206eb",
+    "question": "It is worse to be:",
+    "dimension": "TF",
+    "direction": 1,
+    "options": [
+      {
+        "text": "Unfair",
+        "value": 2,
+        "_id": "698134cde11dbb6dc3e206ec"
+      },
+      {
+        "text": "Uncaring",
+        "value": -2,
+        "_id": "698134cde11dbb6dc3e206ed"
+      }
+    ],
+    "__v": 0,
+    "createdAt": "2026-02-02T23:35:41.539Z",
+    "updatedAt": "2026-02-02T23:35:41.539Z"
+  },
+  {
+    "_id": "698134cde11dbb6dc3e206ee",
+    "question": "You make decisions with your:",
+    "dimension": "TF",
+    "direction": 1,
+    "options": [
+      {
+        "text": "Head",
+        "value": 2,
+        "_id": "698134cde11dbb6dc3e206ef"
+      },
+      {
+        "text": "Heart",
+        "value": -2,
+        "_id": "698134cde11dbb6dc3e206f0"
+      }
+    ],
+    "__v": 0,
+    "createdAt": "2026-02-02T23:35:41.539Z",
+    "updatedAt": "2026-02-02T23:35:41.539Z"
+  },
+  {
+    "_id": "698134cde11dbb6dc3e206f1",
+    "question": "You are more impressed by:",
+    "dimension": "TF",
+    "direction": 1,
+    "options": [
+      {
+        "text": "A well-reasoned argument",
+        "value": 2,
+        "_id": "698134cde11dbb6dc3e206f2"
+      },
+      {
+        "text": "A touching emotional appeal",
+        "value": -2,
+        "_id": "698134cde11dbb6dc3e206f3"
+      }
+    ],
+    "__v": 0,
+    "createdAt": "2026-02-02T23:35:41.539Z",
+    "updatedAt": "2026-02-02T23:35:41.539Z"
+  },
+  {
+    "_id": "698134cde11dbb6dc3e206f4",
+    "question": "When evaluating a situation, you focus on:",
+    "dimension": "TF",
+    "direction": 1,
+    "options": [
+      {
+        "text": "The objective facts",
+        "value": 2,
+        "_id": "698134cde11dbb6dc3e206f5"
+      },
+      {
+        "text": "The human element",
+        "value": -2,
+        "_id": "698134cde11dbb6dc3e206f6"
+      }
+    ],
+    "__v": 0,
+    "createdAt": "2026-02-02T23:35:41.539Z",
+    "updatedAt": "2026-02-02T23:35:41.539Z"
+  },
+  {
+    "_id": "698134cde11dbb6dc3e206f7",
+    "question": "You prefer your life to be:",
+    "dimension": "JP",
+    "direction": 1,
+    "options": [
+      {
+        "text": "Organized and planned",
+        "value": 2,
+        "_id": "698134cde11dbb6dc3e206f8"
+      },
+      {
+        "text": "Spontaneous and flexible",
+        "value": -2,
+        "_id": "698134cde11dbb6dc3e206f9"
+      }
+    ],
+    "__v": 0,
+    "createdAt": "2026-02-02T23:35:41.539Z",
+    "updatedAt": "2026-02-02T23:35:41.539Z"
+  },
+  {
+    "_id": "698134cde11dbb6dc3e206fa",
+    "question": "When starting a new project, you like to:",
+    "dimension": "JP",
+    "direction": 1,
+    "options": [
+      {
+        "text": "Create a detailed plan before you start",
+        "value": 2,
+        "_id": "698134cde11dbb6dc3e206fb"
+      },
+      {
+        "text": "Jump in and figure it out as you go",
+        "value": -2,
+        "_id": "698134cde11dbb6dc3e206fc"
+      }
+    ],
+    "__v": 0,
+    "createdAt": "2026-02-02T23:35:41.539Z",
+    "updatedAt": "2026-02-02T23:35:41.539Z"
+  },
+  {
+    "_id": "698134cde11dbb6dc3e206fd",
+    "question": "You feel more comfortable when:",
+    "dimension": "JP",
+    "direction": 1,
+    "options": [
+      {
+        "text": "Decisions are made and things are settled",
+        "value": 2,
+        "_id": "698134cde11dbb6dc3e206fe"
+      },
+      {
+        "text": "Your options are open and you can adapt",
+        "value": -2,
+        "_id": "698134cde11dbb6dc3e206ff"
+      }
+    ],
+    "__v": 0,
+    "createdAt": "2026-02-02T23:35:41.539Z",
+    "updatedAt": "2026-02-02T23:35:41.539Z"
+  },
+  {
+    "_id": "698134cde11dbb6dc3e20700",
+    "question": "Your workspace is typically:",
+    "dimension": "JP",
+    "direction": 1,
+    "options": [
+      {
+        "text": "Neat and organized",
+        "value": 2,
+        "_id": "698134cde11dbb6dc3e20701"
+      },
+      {
+        "text": "A bit cluttered but you know where everything is",
+        "value": -2,
+        "_id": "698134cde11dbb6dc3e20702"
+      }
+    ],
+    "__v": 0,
+    "createdAt": "2026-02-02T23:35:41.540Z",
+    "updatedAt": "2026-02-02T23:35:41.540Z"
+  },
+  {
+    "_id": "698134cde11dbb6dc3e20703",
+    "question": "You enjoy tasks that:",
+    "dimension": "JP",
+    "direction": 1,
+    "options": [
+      {
+        "text": "Have clear goals and deadlines",
+        "value": 2,
+        "_id": "698134cde11dbb6dc3e20704"
+      },
+      {
+        "text": "Allow for flexibility and last-minute changes",
+        "value": -2,
+        "_id": "698134cde11dbb6dc3e20705"
+      }
+    ],
+    "__v": 0,
+    "createdAt": "2026-02-02T23:35:41.540Z",
+    "updatedAt": "2026-02-02T23:35:41.540Z"
+  },
+  {
+    "_id": "698134cde11dbb6dc3e20706",
+    "question": "When it comes to deadlines, you:",
+    "dimension": "JP",
+    "direction": 1,
+    "options": [
+      {
+        "text": "Prefer to finish work well in advance",
+        "value": 2,
+        "_id": "698134cde11dbb6dc3e20707"
+      },
+      {
+        "text": "Work best under pressure, close to the deadline",
+        "value": -2,
+        "_id": "698134cde11dbb6dc3e20708"
+      }
+    ],
+    "__v": 0,
+    "createdAt": "2026-02-02T23:35:41.540Z",
+    "updatedAt": "2026-02-02T23:35:41.540Z"
+  },
+  {
+    "_id": "698134cde11dbb6dc3e20709",
+    "question": "You prefer to have:",
+    "dimension": "JP",
+    "direction": 1,
+    "options": [
+      {
+        "text": "A predictable daily routine",
+        "value": 2,
+        "_id": "698134cde11dbb6dc3e2070a"
+      },
+      {
+        "text": "A variety of new experiences each day",
+        "value": -2,
+        "_id": "698134cde11dbb6dc3e2070b"
+      }
+    ],
+    "__v": 0,
+    "createdAt": "2026-02-02T23:35:41.540Z",
+    "updatedAt": "2026-02-02T23:35:41.540Z"
+  },
+  {
+    "_id": "698134cde11dbb6dc3e2070c",
+    "question": "When on vacation, you prefer to:",
+    "dimension": "JP",
+    "direction": 1,
+    "options": [
+      {
+        "text": "Have a schedule and stick to it",
+        "value": 2,
+        "_id": "698134cde11dbb6dc3e2070d"
+      },
+      {
+        "text": "Go with the flow and see what happens",
+        "value": -2,
+        "_id": "698134cde11dbb6dc3e2070e"
+      }
+    ],
+    "__v": 0,
+    "createdAt": "2026-02-02T23:35:41.540Z",
+    "updatedAt": "2026-02-02T23:35:41.540Z"
+  },
+  {
+    "_id": "698134cde11dbb6dc3e2070f",
+    "question": "You like to:",
+    "dimension": "JP",
+    "direction": 1,
+    "options": [
+      {
+        "text": "Make lists and check things off",
+        "value": 2,
+        "_id": "698134cde11dbb6dc3e20710"
+      },
+      {
+        "text": "Keep your plans flexible",
+        "value": -2,
+        "_id": "698134cde11dbb6dc3e20711"
+      }
+    ],
+    "__v": 0,
+    "createdAt": "2026-02-02T23:35:41.540Z",
+    "updatedAt": "2026-02-02T23:35:41.540Z"
+  },
+  {
+    "_id": "698134cde11dbb6dc3e20712",
+    "question": "You feel better after:",
+    "dimension": "JP",
+    "direction": 1,
+    "options": [
+      {
+        "text": "Making a decision",
+        "value": 2,
+        "_id": "698134cde11dbb6dc3e20713"
+      },
+      {
+        "text": "Keeping your options open",
+        "value": -2,
+        "_id": "698134cde11dbb6dc3e20714"
+      }
+    ],
+    "__v": 0,
+    "createdAt": "2026-02-02T23:35:41.540Z",
+    "updatedAt": "2026-02-02T23:35:41.540Z"
+  }
+]
